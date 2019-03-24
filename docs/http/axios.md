@@ -176,7 +176,7 @@ app.listen(3000, () => {
 
 ## Test
 
-### http://localhost:8080/board/1
+### localhost:8080/board/1
 제목 : 제목이야 
 내용 : 냉무냉무
 
