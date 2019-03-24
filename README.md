@@ -1,16 +1,15 @@
 # Vue Study 
 
-&nbsp;
-&nbsp;
+>  Vue 기초 공사  🔨뚝딱뚝딱
 
-## Hello World
+## Hello World ✋
 
 #### 헬로월드 [📄](./docs/hello%20world/helloworld.md)
 
 &nbsp;
 &nbsp;
 
-## Component
+## Component ◼️◻️◼️◻️
 
 #### 전역 컴포넌트와 지역 컴포넌트 [📄](./docs/component/전역%20컴포넌트와%20지역%20컴포넌트.md)
 
