@@ -1,5 +1,5 @@
 
-## URL 해시(#) 제거
+# URL 해시(#) 제거
 
 VueRouter 객체에 mode 속성 값 3가지가 있음. `hash`, `history`, `abstract`
 
@@ -20,3 +20,4 @@ export default new VueRouter({
 
 //...
 ```
+
