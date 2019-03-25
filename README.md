@@ -6,6 +6,16 @@
 
 #### 1. 헬로월드 [📄](./docs/hello%20world/helloworld.md)
 
+
+
+&nbsp;
+
+## Basic 🎵
+
+#### 1. 싱글 파일 컴포넌트 [📄](./docs/basic/싱글%20파일%20컴포넌트.md)
+
+#### 2. 디렉티브 [📄](./docs/basic/디렉티브.md)
+
 &nbsp;
 
 ## Component ◼️◻️◼️◻️
