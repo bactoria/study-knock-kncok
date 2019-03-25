@@ -52,7 +52,7 @@
 
 ## Vuex
 
-#### 1. Vuex 기초[📄](./docs/vuex/vuex.md)
+#### 1. Vuex [📄](./docs/vuex/vuex.md)
 
 &nbsp;
 
