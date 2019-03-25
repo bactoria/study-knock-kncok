@@ -54,6 +54,8 @@
 
 #### 1. Vuex [📄](./docs/vuex/vuex.md)
 
+#### 2. 헬퍼 함수 [📄](./docs/vuex/helper%20function.md)
+
 &nbsp;
 
 ## Project
