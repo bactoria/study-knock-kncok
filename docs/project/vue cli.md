@@ -85,7 +85,7 @@ $ vue create first-project
 
 ### vue ui
 
-프로젝트에서 `vue ui` 입력하고 `localhost:9000`을 접속하면 예쁜 GUI를 볼 수있다.
+프로젝트에서 `vue ui` 입력하고 `localhost:8000`을 접속하면 예쁜 GUI를 볼 수있다.
 
 Plug 관리, Dependency 관리를 쉽게 할 수있다.
 
