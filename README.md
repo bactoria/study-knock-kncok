@@ -16,6 +16,12 @@
 
 #### 2. 디렉티브 [📄](./docs/basic/디렉티브.md)
 
+#### 3. computed, watch
+
+#### 4. 이벤트 핸들링
+
+#### 5. 라이프 사이클
+
 &nbsp;
 
 ## Component ◼️◻️◼️◻️
@@ -61,3 +67,15 @@
 ## Project
 
 #### 1. Vue CLI [📄](./docs/project/vue%20cli.md)
+
+&nbsp;
+
+## Deploy
+
+#### 1. Express [📄](./docs/deploy/express.md)
+
+&nbsp;
+
+## Etc
+
+#### 1. Modal
