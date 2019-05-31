@@ -10,8 +10,12 @@
 
 ### Vue CLI 설치
 
-```
-npm install vue-cli -global
+```bash
+# vue-cli 2.x
+npm i -g vue-cli 
+
+# vue-cli 3.x
+npm i -g @vue/cli
 ```
 
 &nbsp;
