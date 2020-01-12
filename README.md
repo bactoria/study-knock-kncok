@@ -70,6 +70,16 @@
 
 &nbsp;
 
+## TypeScript
+
+#### 1. 프로젝트 생성 [📄](./docs/typescript/프로젝트%20생성.md)
+#### 2. @Component [📄](./docs/typescript/@Component.md)
+#### 3. @Emit [📄](./docs/typescript/@Emit.md)
+#### 4. @Prop [📄](./docs/typescript/@Prop.md)
+#### 5. @Watch [📄](./docs/typescript/@Watch.md)
+
+&nbsp;
+
 ## Deploy
 
 #### 1. Express [📄](./docs/deploy/express.md)
