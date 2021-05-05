@@ -118,8 +118,9 @@
 <details markdown="1">
 <summary>Event Driven Microservices</summary>
 
-#### 1. 왜 이벤트 기반 마이크로서비스인가 ? [📄](./eventDrivenMicroservices/1.%20왜%20이벤트%20기반%20마이크로서비스인가?.md)
+#### 1. 왜 이벤트 기반 마이크로서비스인가 ? [📄](./eventDrivenMicroservices/1.%20왜%20이벤트%20기반%20마이크로서비스인가%3F.md)
 
 ### ~~Event Driven Microservices 끗~~
+---
 
 </details>
