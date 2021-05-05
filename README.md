@@ -102,15 +102,24 @@
 
 ## Hello World ✋
 
-#### 1. 검색 시스템 이해 [📄](./elsaticSearch/hello%20world/1.%20검색%20시스템%20이해.md)
+#### 1. 검색 시스템 이해 [📄](./elasticSearch/hello%20world/1.%20검색%20시스템%20이해.md)
 
-#### 2. Elasticsearch 장점 & 단점 [📄](./elsaticSearch/hello%20world/2.%20Elasticsearch%20장점%20&%20단점.md)
+#### 2. Elasticsearch 장점 & 단점 [📄](./elasticSearch/hello%20world/2.%20Elasticsearch%20장점%20&%20단점.md)
 
-#### 3. Elasticsearch & Kibana 다운로드, 실행 [📄](./elsaticSearch/hello%20world/3.%20Elasticsearch%20&%20Kibana%20다운로드,%20실행.md)
+#### 3. Elasticsearch & Kibana 다운로드, 실행 [📄](./elasticSearch/hello%20world/3.%20Elasticsearch%20&%20Kibana%20다운로드,%20실행.md)
 
 &nbsp;
 
 ### ~~ElasticSearch 끗~~
 ---
+
+</details>
+
+<details markdown="1">
+<summary>Event Driven Microservices</summary>
+
+#### 1. 왜 이벤트 기반 마이크로서비스인가 ? [📄](./eventDrivenMicroservices/1.%20왜%20이벤트%20기반%20마이크로서비스인가?.md)
+
+### ~~Event Driven Microservices 끗~~
 
 </details>
