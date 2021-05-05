@@ -113,6 +113,45 @@
 ### ~~ElasticSearch 끗~~
 ---
 
+
+</details>
+
+<details markdown="1">
+<summary>Domain Driven Design</summary>
+
+
+## DDD Start!
+
+> DDD 에 대해서 공부한 것들을 나중에 필요할 때 쉽게 찾아보기 위해서 스터디 내용들을 글로 남기기로 함.
+
+#### 1장. [도메인 모델 시작](https://github.com/GanzulHaNi/DTART/blob/master/DDDStart!/1%EC%9E%A5.%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EB%AA%A8%EB%8D%B8%20%EC%8B%9C%EC%9E%91.md)  - 도메인 모델, 엔티티, 밸류
+
+#### 2장. [아키텍처 개요](https://github.com/GanzulHaNi/DTART/blob/master/DDDStart!/2%EC%9E%A5.%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%EA%B0%9C%EC%9A%94.md) (계층 아키텍처, DIP 패턴, 도메인 영역 구성요소)
+
+#### 3장. [애그리거트](https://github.com/GanzulHaNi/DTART/blob/master/DDDStart!/3%EC%9E%A5.%20%EC%95%A0%EA%B7%B8%EB%A6%AC%EA%B1%B0%ED%8A%B8.md)
+
+#### 4장. [리포지터리와 모델구현(JPA 중심)](https://github.com/GanzulHaNi/DTART/blob/master/DDDStart!/4%EC%9E%A5.%20%EB%A6%AC%ED%8F%AC%EC%A7%80%ED%84%B0%EB%A6%AC%EC%99%80%20%EB%AA%A8%EB%8D%B8%20%EA%B5%AC%ED%98%84%28JPA%20%EC%A4%91%EC%8B%AC%29.md)
+
+#### 5장. 리포지터리의 조회 기능(JPA 중심)
+
+#### 6장. [응용 서비스와 표현 영역](https://github.com/GanzulHaNi/DTART/blob/master/DDDStart!/6%EC%9E%A5.%20%EC%9D%91%EC%9A%A9%20%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80%20%ED%91%9C%ED%98%84%20%EC%98%81%EC%97%AD.md)
+
+#### 7장. [도메인 서비스](https://github.com/GanzulHaNi/DTART/blob/master/DDDStart!/7%EC%9E%A5.%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%84%9C%EB%B9%84%EC%8A%A4.md)
+
+#### 8장. 애그리거트의 트랜잭션 관리
+
+#### 9장. 도메인 모델과 BOUNDED CONTEXT
+
+#### 10장. [이벤트](https://github.com/GanzulHaNi/DTART/blob/master/DDDStart!/10%EC%9E%A5.%20%EC%9D%B4%EB%B2%A4%ED%8A%B8.md)
+
+#### 11장. CQRS
+
+### ~~Domain Driven Design 끗~~
+---
+
+</details>
+
+
 </details>
 
 <details markdown="1">
