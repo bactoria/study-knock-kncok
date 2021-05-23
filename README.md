@@ -163,3 +163,27 @@
 ---
 
 </details>
+
+<details markdown="1">
+<summary>쿠버네티스</summary>
+
+### 오브젝트
+
+오브젝트 = 기본 오브젝트 + 컨트롤러 + 추가적인 메타정보
+
+#### 기본 오브젝트
+- Pod [📄](./kubernetes/pod.md)
+- Service
+- Volume
+- Namespace [📄](./kubernetes/namespace.md)
+
+#### 컨트롤러
+- Replication Controller
+- ReplicaSet
+- Deployment
+
+#### 추가적인 메타정보
+
+---
+
+</details>
